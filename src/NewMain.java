@@ -5,7 +5,7 @@
 
 /**
  *
- * @author Eric S
+ * @author Eric San
  */
 public class NewMain {
 
@@ -13,6 +13,6 @@ public class NewMain {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
-    }
+        // Awsome!!
+        }
 }
