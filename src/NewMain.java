@@ -5,7 +5,7 @@
 
 /**
  *
- * @author Eric
+ * @author Eric S
  */
 public class NewMain {
 
